@@ -2,3 +2,4 @@
 [basic loops](https://www.youtube.com/watch?v=S_1QiK_RF2o&pp=ygUWcHl0aG9uIGxvb3BzIGZvciB3aGlsZQ%3D%3D)
 [for loop vs while loop](https://www.youtube.com/watch?v=cUV__S8Jaqs&pp=ygUWcHl0aG9uIGxvb3BzIGZvciB3aGlsZQ%3D%3D)
 [python nested loops](https://www.youtube.com/watch?v=q4iHoJd_NSo&list=PLBlnK6fEyqRhytV4M_S_Nk5OJt_E0jEbW&index=6&pp=iAQB)
+[python  mini projects in 1 hour](https://www.youtube.com/watch?v=DLn3jOsNRVE&pp=ygUUcHl0aG9uIG1pbmkgcHJvamVjdHM%3D)
